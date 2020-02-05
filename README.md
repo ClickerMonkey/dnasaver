@@ -1,3 +1,3 @@
-# PixiJS Sound + Webpack Example
+# DNA Saver
 
-This example is used to show a very basic example of using [PixiJS Sound](https://github.com/pixijs/pixi-sound) and [Webpack](http://webpack.js.org).
+A boring screensaver with a bouncing DNA strand
